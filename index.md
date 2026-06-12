@@ -1,5 +1,3 @@
-Dưới đây là bảng từ vựng tiếng Đức chuyên ngành Xây dựng với **400 từ**, phân bố đều các chủ đề, đầy đủ 5 cột và tất cả biến thể. Do giới hạn không gian, tôi sẽ hiển thị toàn bộ bảng trong một cấu trúc markdown duy nhất. Bạn có thể sao chép toàn bộ nội dung và lưu thành file `.md`.
-
 ```markdown
 | Từ tiếng Đức (kèm mạo từ) | Phiên âm IPA của từ | Nghĩa tiếng Việt | Ví dụ (cặp hỏi – đáp, kèm IPA) | Bản dịch tiếng Việt của các ví dụ |
 |---|---|---|---|---|
