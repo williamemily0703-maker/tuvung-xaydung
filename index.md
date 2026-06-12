@@ -1,4 +1,3 @@
-```markdown
 | Từ tiếng Đức (kèm mạo từ) | Phiên âm IPA của từ | Nghĩa tiếng Việt | Ví dụ (cặp hỏi – đáp, kèm IPA) | Bản dịch tiếng Việt của các ví dụ |
 |---|---|---|---|---|
 | das Bauwesen | /das ˈbaʊˌveːzn̩/ | ngành xây dựng (nói chung) | **Số ít:** Frage: „Spielt das Bauwesen eine wichtige Rolle in der Wirtschaft?“ [ʃpiːlt das ˈbaʊˌveːzn̩ ˈaɪnə ˈvɪçtɪɡə ˈʁɔlə ɪn deːɐ ˈvɪʁtʃaft] – Antwort: „Ja, das Bauwesen ist eine Schlüsselindustrie.“ [jaː, das ˈbaʊˌveːzn̩ ɪst ˈaɪnə ˈʃlʏsl̩ˌʔɪndʊsˌtʁiː] | **Số ít:** Hỏi: “Ngành xây dựng có vai trò quan trọng trong nền kinh tế không?” – Đáp: “Có, ngành xây dựng là một ngành then chốt.” |
